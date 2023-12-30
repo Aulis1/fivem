@@ -4,7 +4,6 @@ This directory contains data which will be copied to the project layout director
 
 ## data/
 * [**client/**](./client/): Shared data for all game clients, and full data for FiveM.
-* [**client_rdr/**](./client_rdr/): Specific runtime data for RedM.
 * [**launcher/**](./launcher/): Specific runtime data for the Cfx.re Compositing Launcher.
 * [**server/**](./server/): Shared runtime data for FXServer.
 * [**server_linux/**](./server_linux/): Shared runtime data for FXServer on Linux.
