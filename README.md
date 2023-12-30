@@ -3,7 +3,6 @@
 This repository contains the code for the Cfx.re projects, among which are the following:
 
 * [FiveM](https://fivem.net/), a dual-purpose (SP/MP) modification framework for the PC version of Grand Theft Auto V as released by Rockstar Games.
-* [RedM](https://redm.gg/), a modification framework for the PC version of Red Dead Redemption 2 as released by Rockstar Games.
 * FXServer, the server component for multiplayer services on the Cfx.re projects.
 
 On the multiplayer aspect, the GTA/RAGE modifications differ from other similar modifications by utilizing the embedded game networking frameworks, building a modification framework around them, and expanding the game's functionality on an end-to-end level, directly binding to the RAGE Technology Group's base frameworks and Rockstar North's GTA codebase.
