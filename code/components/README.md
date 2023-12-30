@@ -86,7 +86,6 @@ CitizenFX implementation components.
 * [**ros-patches-five/**](./ros-patches-five): ROS compatibility.
 
 ### RDR2
-* [**citizen-level-loader-rdr3/**](./citizen-level-loader-rdr3): SP level loading support.
 * [**citizen-playernames-rdr3/**](./citizen-playernames-rdr3): Player name overrides.
 * [**extra-natives-rdr3/**](./extra-natives-rdr3): High-level game-specific natives.
 * [**gta-core-rdr3/**](./gta-core-rdr3): Low-level GTA project wrappers. (RDR3 is built atop GTA/RAGE)
